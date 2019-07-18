@@ -15,6 +15,17 @@
 * [ShortScience ](https://www.shortscience.org/)
 > 用最简单的篇幅去概况科学著作
 
+* [StackOverFlow](www.stackoverflow.com)
+> 代码报错找它，代码不会敲找它！所有与代码相关的坑，基本都有人踩过啦😂
+
+* [Sklearn](scikit-learn.org/stable)
+> 专业做机器学习100年！各算法各技巧的例子code应有尽有
+
+* [Medium](medium.com)
+> 创办人是Twitter的创始人，推崇优质内容，国内很多AI公众大号的搬运都来自于这里，medium里每个作者都有自己独特的见解，值得学习和开拓眼界，需要科学上网
+
+* [Google AI blog](ai.googleblog.com)
+> 谷歌的AI团队维护的博客，每天至少更新一篇技术博客。刚在上海开的谷歌开发者大会宣布将会免费开放机器学习课程，值得关注一下，毕竟是AI巨头
 ## 中文网
 * [17bigdata](http://www.17bigdata.com/)
 > 分享计算机技术，主要是大数据方向
@@ -63,6 +74,12 @@
 > 找论文必备
 
 课程
+* [deeplearning.ai](www.deeplearning.ai)
+>
+
+* [fast.ai](www.fast.ai)
+> 专注于深度学习。Fast.ai的创始人就蛮有意思的，是横扫kaggle图像处理的高手，不摆架子，也不故弄玄虚。中心思想就是深度学习很简单，不要怕。fast.ai有博客和社区。Jeremy和Rachel鼓励撰写博客，构建项目，在会议中进行讨论等活动，以实力来代替传统证书的证明作用。
+
 * [Coursera美国](coursera.org/)
 > 斯坦福打造的公开课平台，课程最多。
 
